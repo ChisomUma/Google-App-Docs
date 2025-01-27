@@ -18,7 +18,7 @@ In this project, we built a CI/CD pipeline for a Google App Engine Site using Ci
 
 
 ## What is CircleCI?
-[CircleCI](https://circleci.com/) is a popular choice for software engineers, particularly DevOps engineers when working on [automation](https://www.aviator.co/blog/automating-integration-tests/) and overall CI/CD integrations. The CI/CD platform helps software teams automate the process of building, testing, and deploying code. As a cloud-based platform, CircleCI allows you to seamlessly integrate with any version control system you choose, such as GitHub, Bitbucket, or GitLab. However, we will be working with GitHub on this article.
+[CircleCI](https://circleci.com/) is a popular choice for software engineers, particularly DevOps engineers, when working on [automation](https://www.aviator.co/blog/automating-integration-tests/) and overall CI/CD integrations. The CI/CD platform helps software teams automate the process of building, testing, and deploying code. As a cloud-based platform, CircleCI allows you to seamlessly integrate with any version control system you choose, such as GitHub, Bitbucket, or GitLab. However, we will be working with GitHub on this article.
 
 One cool thing about CircleCI is that it lets developers define pipelines that automate the process of building, testing, and deploying code. Pipelines are composed of jobs, which are individual steps in the CI/CD process. Jobs can be configured to run on various platforms, including Linux, macOS, and Windows.
 
@@ -76,7 +76,7 @@ After running the command, your project should look like this in your code edito
 <img width="227" alt="s_762DC8729D6070F874B9A6C8613F9867EBE8E5E337A9107440BC3B666C3AB306_1700600224195_Screenshot+2023-11-21+215541" src="https://github.com/ChisomUma/Google-app-engine-CircleCI/assets/98381486/e0a84a49-1738-46b6-a6f2-594e9b963887">
 
 
-Within the `build` directory, we have our website files, which look this:
+Within the `build` directory, we have our website files, which look like this:
 ```
 📦build
  ┣ 📂doctrees
