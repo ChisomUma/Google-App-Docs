@@ -76,7 +76,7 @@ After running the command, your project should look like this in your code edito
 <img width="227" alt="s_762DC8729D6070F874B9A6C8613F9867EBE8E5E337A9107440BC3B666C3AB306_1700600224195_Screenshot+2023-11-21+215541" src="https://github.com/ChisomUma/Google-app-engine-CircleCI/assets/98381486/e0a84a49-1738-46b6-a6f2-594e9b963887">
 
 
-Within the `build` directory, we have our website files, which look like this:
+Within the `build` directory, we have our website files, as shown in the file tree below:
 ```
 📦build
  ┣ 📂doctrees
