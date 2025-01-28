@@ -155,7 +155,9 @@ You will get a prompt asking you to choose the location you would like your app 
 
 
 
-Choose anyone, and your app will successfully deploy. It’s time to push our code to Github! Alternatively, you can clone my GitHub repo [here](https://github.com/ChisomUma/Google-app-engine-CircleCI).
+Choose anyone, and your app will be successfully deployed. Now, It’s time to push our code to Github! 
+
+Alternatively, you can clone my GitHub repo [here](https://github.com/ChisomUma/Google-app-engine-CircleCI).
 
 **Note:** The documentation file for this project is located in this repo. You can remove it when make changes to the cloned repo.
 
